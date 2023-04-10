@@ -1,2 +1,0 @@
-# projectPet
-pet-project
